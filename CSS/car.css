@@ -1,0 +1,8 @@
+div{
+	height: 1375px;
+	width: 2250px;
+	border:6px solid black;
+	background-image: url('car/man.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}

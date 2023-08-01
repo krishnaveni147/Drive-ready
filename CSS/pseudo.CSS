@@ -1,0 +1,22 @@
+a:link{
+	color:red;
+}
+a:active{
+	color:pink;
+}
+a:hover{
+	color:blue;
+}
+a:active{
+	color:yellow;
+}
+div:hover{
+	background-color: violet;
+	height:300px;
+	width:300px;
+}
+div{
+	background-color: pink;
+	height:100px;
+	width:100px;
+}

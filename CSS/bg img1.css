@@ -1,0 +1,8 @@
+div{
+	height: 312px;
+	width: 474px;
+	border:6px solid black;
+	background-image: url('image/tree.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}

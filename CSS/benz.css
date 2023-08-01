@@ -1,0 +1,8 @@
+div{
+	height: 656px;
+	width: 680px;
+	border:6px solid black;
+	background-image: url('img/bharathbenz.WhatsApp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
